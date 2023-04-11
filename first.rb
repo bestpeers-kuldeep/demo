@@ -1,4 +1,7 @@
+@num ="kuldeep"
+def fun
+   puts num
+end
 
-name= "developer"
-puts "bestpeers is #{name}"
-puts 'bestperr kis "kuldeep"'
+if 6<9
+   
