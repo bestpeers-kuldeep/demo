@@ -1,0 +1,11 @@
+
+class Demo
+def first_arg(*args)
+   puts first , second
+end
+end
+obj =Demo.new
+# fist =proc.new {}
+obj.first_arg(2,3)
+
+    
