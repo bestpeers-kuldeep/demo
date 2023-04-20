@@ -119,3 +119,4 @@ new_hash = {reading: "#{re_count}",writing: "#{w_count}",codig: "#{c_count}",pai
 puts new_hash
 end
 cout_hobbies
+
